@@ -1,0 +1,5 @@
+Resolusi perkuliahan 2024, bisa nambah skill:
+- React
+- Java
+- konsep struktur data
+
