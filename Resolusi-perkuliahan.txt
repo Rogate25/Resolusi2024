@@ -1,5 +1,4 @@
 Resolusi perkuliahan 2024, bisa nambah skill:
-- terbang
 - React
 - Java
 - konsep struktur data
